@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "typescript": "^4.2.4"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "watch": "tsc -w",
+    "tscf": "tsc --init"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
